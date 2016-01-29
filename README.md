@@ -1,0 +1,2 @@
+# miniQuery
+Recreate jQuery
