@@ -1,2 +1,2 @@
 # miniQuery
-Recreate jQuery
+Recreate elements of jQuery using javaScript
